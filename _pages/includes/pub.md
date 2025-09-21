@@ -2,15 +2,14 @@
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCST 2015</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCST 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs](https://jcst.ict.ac.cn/article/doi/10.1007/s11390-025-4285-7) \\
-Jian-Kuo Dong, **Wen Wu**, Sheng Lu, Le-Tian Sha, Fang-Yu Zheng, Fu Xiao, Hua-Qun Wang.
+Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wang.
 
 - Propose HI-SM3, a high-performance framework for SM3 based on heterogeneous GPU parallel computing, optimizing parallelism, register usage, memory access, and instruction efficiency.
 - Achieve significant cross-platform acceleration, reaching 454.74 GB/s on an NVIDIA RTX 4090 (150× faster than a 16-core CPU), 113.77 GB/s on a Hygon DCU, and 11.95 GB/s on low-power embedded GPUs.
-- Surpass state-of-the-art GPU implementations, delivering up to 3.12× higher throughput and enabling efficient cryptographic operations for blockchain and IoT applications.
 </div>
 </div>
 
