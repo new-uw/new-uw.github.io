@@ -14,6 +14,16 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">通信学报 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[基于国产GPU的国产公钥密码SM2高性能并行加速方法] \\
+**Wen Wu**, Jiankuo Dong, Pengbo Liu, Zhenjiang Dong, Xin Hu, Pinchang Zhang, Fu Xiao.
+
+- Propose HI-SM3, a high-performance framework for SM3 based on heterogeneous GPU parallel computing, optimizing parallelism, register usage, memory access, and instruction efficiency.
+- Achieve significant cross-platform acceleration, reaching 454.74 GB/s on an NVIDIA RTX 4090 (150× faster than a 16-core CPU), 113.77 GB/s on a Hygon DCU, and 11.95 GB/s on low-power embedded GPUs.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
