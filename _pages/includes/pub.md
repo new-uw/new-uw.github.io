@@ -21,7 +21,7 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 **Wen Wu**, Jiankuo Dong, Pengbo Liu, Zhenjiang Dong, Xin Hu, Pinchang Zhang, Fu Xiao.
 
 - Optimized SM2 digital signature on domestic GPUs with efficient field arithmetic, Jacobian point operations, and precomputation to accelerate scalar multiplication.
-- Achieved 6 816 kops/s signing and 1 385 kops/s verification on Hygon DCU, proving feasibility for secure, autonomous SM2 deployment.
+- Achieved 6 816 kops/s signing and 1,385 kops/s verification on Hygon DCU, proving feasibility for secure, autonomous SM2 deployment.
 </div>
 </div>
 
