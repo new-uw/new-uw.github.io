@@ -26,7 +26,7 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/McEliece-GPU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610) \\
