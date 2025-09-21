@@ -26,14 +26,14 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCST 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs](https://jcst.ict.ac.cn/article/doi/10.1007/s11390-025-4285-7) \\
-Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wang.
+[Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610) \\
+Wen Wu, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao, Jingqiang Lin.
 
-- Propose HI-SM3, a high-performance framework for SM3 based on heterogeneous GPU parallel computing, optimizing parallelism, register usage, memory access, and instruction efficiency.
-- Achieve significant cross-platform acceleration, reaching 454.74 GB/s on an NVIDIA RTX 4090 (150× faster than a 16-core CPU), 113.77 GB/s on a Hygon DCU, and 11.95 GB/s on low-power embedded GPUs.
+- First GPU-based Classic McEliece with CPU–GPU heterogeneous design, kernel fusion, and optimized (T)AFFT using MASS and LFMASS strategies.
+- Achieves up to 344× faster encapsulation and 125× faster decapsulation on NVIDIA RTX 4090 versus CPU AVX, surpassing ARM and FPGA implementations.
 </div>
 </div>
 
