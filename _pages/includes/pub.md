@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCST 2015</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs](https://jcst.ict.ac.cn/article/doi/10.1007/s11390-025-4285-7) \\
