@@ -20,8 +20,8 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 [基于国产GPU的国产公钥密码SM2高性能并行加速方法] \\
 **Wen Wu**, Jiankuo Dong, Pengbo Liu, Zhenjiang Dong, Xin Hu, Pinchang Zhang, Fu Xiao.
 
-- Propose HI-SM3, a high-performance framework for SM3 based on heterogeneous GPU parallel computing, optimizing parallelism, register usage, memory access, and instruction efficiency.
-- Achieve significant cross-platform acceleration, reaching 454.74 GB/s on an NVIDIA RTX 4090 (150× faster than a 16-core CPU), 113.77 GB/s on a Hygon DCU, and 11.95 GB/s on low-power embedded GPUs.
+- Optimized SM2 digital signature on domestic GPUs with efficient field arithmetic, Jacobian point operations, and precomputation to accelerate scalar multiplication.
+- Achieved 6 816 kops/s signing and 1 385 kops/s verification on Hygon DCU, proving feasibility for secure, autonomous SM2 deployment.
 </div>
 </div>
 
