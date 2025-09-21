@@ -22,7 +22,7 @@ repository               : "new-uw/new-uw.github.io"
 # Site Author
 author:
   name             : "Wen Wu (吴雯)"
-  avatar           : "images/wenwu.jpeg"
+  avatar           : "images/wenwu.png"
   bio              : ""
   location         : "China"
   employer         :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "new-uw"
+  linkedin         : #"new-uw"
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0009-0002-5811-1187"
   pinterest        :
