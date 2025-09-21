@@ -14,7 +14,7 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">通信学报 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">通信学报 2025</div><img src='images/DCU-SM2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 基于国产GPU的国产公钥密码SM2高性能并行加速方法 \\
