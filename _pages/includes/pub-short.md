@@ -1,5 +1,5 @@
 
-# 📝 Publications (short)
+# 📝 Publications list
 - ``TII accpet`` [RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](). **Wen Wu**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li and Zhenjiang Dong.
 
 - ``TIFS 2025`` [Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610). **Wen Wu**, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao and Jingqiang Lin.
