@@ -20,8 +20,8 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 [High-performance parallel acceleration method for domestic public key cryptographic algorithm SM2 based on domestic GPU](https://www.joconline.com.cn/thesisDetails?columnId=108586852&Fpath=home&index=0&l=zh&lang=zh) \\
 **Wen Wu**, Jiankuo Dong, Pengbo Liu, Zhenjiang Dong, Xin Hu, Pinchang Zhang, Fu Xiao.
 
-- Optimized SM2 digital signature on domestic GPUs with efficient field arithmetic, Jacobian point operations, and precomputation to accelerate scalar multiplication.
-- Achieved 6 816 kops/s signing and 1,385 kops/s verification on Hygon DCU, proving feasibility for secure, autonomous SM2 deployment.
+- Optimized SM2 digital signature on domestic GPUs with efficient field arithmetic, point operations, and scalar multiplication.
+- Achieved 6,816 kops/s signing and 1,385 kops/s verification on Hygon DCU, proving feasibility for secure, autonomous SM2 deployment.
 </div>
 </div>
 
