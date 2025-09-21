@@ -7,7 +7,7 @@ main:
   #   url: "/#-news"
 
   - title: "Publications list"
-    url: "/#-pub-list"
+    url: "/pub-list"
 
   - title: "Publications detail"
     url: "/#-pub-detail"
