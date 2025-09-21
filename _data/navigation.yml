@@ -7,16 +7,16 @@ main:
   #   url: "/#-news"
 
   - title: "Publications list"
-    url: "/-#pub-list"
+    url: "/#-pub-list"
 
   - title: "Publications detail"
-    url: "/-#pub-detail"
+    url: "/#-pub-detail"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/-#educations"
+    url: "/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
