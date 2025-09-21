@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Publications (detail)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCST 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,7 +35,3 @@ Wen Wu, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao and Jingqiang
 - Achieves up to 344× faster encapsulation and 125× faster decapsulation on NVIDIA RTX 4090 versus CPU AVX, surpassing ARM and FPGA implementations.
 </div>
 </div>
-
-
-- ``TII accpet`` [RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](), Wen Wu, Jiankuo Dong*, Yuze Hou, Mengke Liu, Lunjie Li and Zhenjiang Dong.
-
