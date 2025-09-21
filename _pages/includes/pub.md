@@ -17,7 +17,7 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao, Huaqun Wa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">通信学报 2025</div><img src='images/HI-SM3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于国产GPU的国产公钥密码SM2高性能并行加速方法] \\
+基于国产GPU的国产公钥密码SM2高性能并行加速方法 \\
 **Wen Wu**, Jiankuo Dong, Pengbo Liu, Zhenjiang Dong, Xin Hu, Pinchang Zhang, Fu Xiao.
 
 - Optimized SM2 digital signature on domestic GPUs with efficient field arithmetic, Jacobian point operations, and precomputation to accelerate scalar multiplication.
