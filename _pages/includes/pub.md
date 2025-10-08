@@ -3,7 +3,7 @@
 
 
 ## 📝 List
-- ``TII accpet`` [RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](). **Wen Wu**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li and Zhenjiang Dong.
+- ``TII 2025`` [RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](https://ieeexplore.ieee.org/document/11195949). **Wen Wu**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li and Zhenjiang Dong.
 
 - ``TIFS 2025`` [Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610). **Wen Wu**, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao and Jingqiang Lin.
 
@@ -12,6 +12,18 @@
 - ``JCST 2025`` [HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs](https://jcst.ict.ac.cn/article/doi/10.1007/s11390-025-4285-7). Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao and Huaqun Wang.
 
 ## 📝 Detail
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2025</div><img src='images/McEliece-GPU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](https://ieeexplore.ieee.org/document/11195949) \\
+**Wen Wu**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li and Zhenjiang Dong.
+
+- A GPU-optimized framework for the HAETAE post-quantum signature algorithm, using coarse-grained parallelism, kernel fusion, and data locality optimization to maximize throughput.
+- Achieves up to 1.31× faster signing and 4× faster verification than an Intel i7-10700K, demonstrating high efficiency and low power consumption for IIoT edge computing.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/McEliece-GPU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
