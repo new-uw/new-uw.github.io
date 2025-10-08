@@ -13,7 +13,7 @@
 
 ## 📝 Detail
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2025</div><img src='images/McEliece-GPU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2025</div><img src='images/HAETAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](https://ieeexplore.ieee.org/document/11195949) \\
