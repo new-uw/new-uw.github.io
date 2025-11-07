@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Patents"
-    url: "/#-Patents"
+    url: "/#Patents"
 
   # - title: "Internships"
   #   url: "/#-internships"
