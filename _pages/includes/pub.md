@@ -3,9 +3,9 @@
 
 
 ## 📝 List
-- ``TII 2025`` [RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](https://ieeexplore.ieee.org/document/11195949). **Wen Wu**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li and Zhenjiang Dong.
+- ``TII 2025`` **Wen Wu (第一作者)**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li, Zhenjiang Dong. "[RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](https://ieeexplore.ieee.org/document/11195949)," in IEEE Transactions on Industrial Informatics (TII), doi: 10.1109/TII.2025.3613305. (SCI一区)
 
-- ``TIFS 2025`` [Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610). **Wen Wu**, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao and Jingqiang Lin.
+- ``TIFS 2025`` **Wen Wu (第一作者)**, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao. "[Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610)," in IEEE Transactions on Information Forensics and Security (TIFS), vol. 20, pp. 8746-8759, 2025, doi: 10.1109/TIFS.2025.3595678. (CCF A类)
 
 - ``通信学报 2025`` [High-performance parallel acceleration method for domestic public key cryptographic algorithm SM2 based on domestic GPU](https://www.joconline.com.cn/thesisDetails?columnId=108586852&Fpath=home&index=0&l=zh&lang=zh).**Wen Wu**, Jiankuo Dong, Pengbo Liu, Zhenjiang Dong, Xin Hu, Pinchang Zhang and Fu Xiao.
 
