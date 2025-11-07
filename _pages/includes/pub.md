@@ -11,6 +11,9 @@
 
 - ``JCST 2025`` Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao and Huaqun Wang. “[HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs](https://jcst.ict.ac.cn/article/doi/10.1007/s11390-025-4285-7)," Journal of Computer Science and Technology (JCST). DOI: 10.1007/s11390-025-4285-7. (CCF B类)
 
+## 📝 Patent
+- 一种基于浮点数计算能力加速SM2国密算法的方法.
+- 一种全同态乘法的GPU加速方法.
 
 ## 📝 Detail
 
