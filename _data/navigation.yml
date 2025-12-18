@@ -1,10 +1,7 @@
-# main links links  url不能动，源码暂时没找到在哪
+
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  # - title: "News"
-  #   url: "/#-news"
 
   - title: "Publications"
     url: "/#publications"
@@ -12,11 +9,8 @@ main:
   - title: "Honors and Awards"
     url: "/#honors"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
+   # 添加新模块时，首行```markdown
+   # <span class='anchor' id='your-id-here'></span>
+   # # 你的标题
+   # ```
+   # 然后在 navigation.yml 中使用 `/#your-id-here`
