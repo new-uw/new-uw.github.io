@@ -3,7 +3,7 @@
 # Publications
 
 
-## 📝 List
+## 📝 Paper List
 - ``TII 2025`` **Wen Wu (第一作者)**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li, Zhenjiang Dong. "[RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](https://ieeexplore.ieee.org/document/11195949)," in IEEE Transactions on Industrial Informatics (TII), doi: 10.1109/TII.2025.3613305. (SCI一区)
 
 - ``TIFS 2025`` **Wen Wu (第一作者)**, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao. "[Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610)," in IEEE Transactions on Information Forensics and Security (TIFS), vol. 20, pp. 8746-8759, 2025, doi: 10.1109/TIFS.2025.3595678. (CCF A类)
@@ -12,7 +12,10 @@
 
 - ``JCST 2025`` Jiankuo Dong, **Wen Wu (学生第一)**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao and Huaqun Wang. “[HI-SM3: High-Performance Implementation of SM3 Hash Function on Heterogeneous GPUs](https://jcst.ict.ac.cn/article/doi/10.1007/s11390-025-4285-7)," Journal of Computer Science and Technology (JCST). DOI: 10.1007/s11390-025-4285-7. (CCF B类)
 
-## 📝 Detail
+## 📝 Patent list
+
+
+## 📝 Paper Detail
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2025</div><img src='images/HAETAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
