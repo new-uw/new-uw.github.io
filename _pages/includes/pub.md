@@ -20,6 +20,8 @@
 | 2024.08.09 | 一种全同态乘法的GPU加速方法                 | CN118466898B | 5/5  |
 | 2024.05.17 | 一种基于浮点数计算能力加速SM2国密算法的方法 | CN117908835B | 1/5  |
 
+
+<!--
 ## 📝 Paper Detail
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2025</div><img src='images/HAETAE.png' alt="sym" width="100%"></div></div>
@@ -68,3 +70,4 @@ Jiankuo Dong, **Wen Wu**, Sheng Lu, Letian Sha, Fangyu Zheng, Fu Xiao and Huaqun
 - Achieve significant cross-platform acceleration, reaching 454.74 GB/s on an NVIDIA RTX 4090 (150× faster than a 16-core CPU), 113.77 GB/s on a Hygon DCU, and 11.95 GB/s on low-power embedded GPUs.
 </div>
 </div>
+-->
