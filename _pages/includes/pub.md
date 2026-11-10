@@ -4,6 +4,9 @@
 
 
 ## 📝 Paper List
+
+- **Wen Wu (第一作者)**, Jiankuo Dong, Xuecheng Liu, Shuzhou Sun, Zhenjiang Dong, Jingqiang Lin, Fu Xiao. "[RACE: A Rapid ARM Cryptographic Engine for Code-Based Classic McEliece PQC Scheme](https://ieeexplore.ieee.org/document/11738907/)," in IEEE Transactions on Computers (TC), do: 10.1109/TC.2026.3744670. (CCF A类)
+
 - ``TII 2025`` **Wen Wu (第一作者)**, Jiankuo Dong, Yuze Hou, Mengke Liu, Lunjie Li, Zhenjiang Dong. "[RIGHT: GPU-Optimized Parallel PQC HAETAE for High-Throughput Cryptographic Acceleration](https://ieeexplore.ieee.org/document/11195949)," in IEEE Transactions on Industrial Informatics (TII), doi: 10.1109/TII.2025.3613305. (SCI一区)
 
 - ``TIFS 2025`` **Wen Wu (第一作者)**, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao. "[Symphony of Speeds: Harmonizing Classic McEliece Cryptography With GPU Innovation](https://ieeexplore.ieee.org/document/11112610)," in IEEE Transactions on Information Forensics and Security (TIFS), vol. 20, pp. 8746-8759, 2025, doi: 10.1109/TIFS.2025.3595678. (CCF A类)
